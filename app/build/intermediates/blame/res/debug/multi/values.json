@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "F:\\FirstService\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "F:\\FirstService\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 110,
+                        "endColumn": 43,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 60,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "F:\\FirstService\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 43,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "F:\\FirstService\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 154,
+                        "endColumn": 40,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 42,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "F:\\FirstService\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 195,
+                        "endColumn": 39,
+                        "endOffset": 233
+                    }
+                }
+            }
+        ]
+    }
+]
